@@ -1,8 +1,6 @@
 # CSE4057_InformationSystemSecurity_Project1
 
-CSE4057 Spring 2024
-Homework 1
-Due: April 21th, Sunday 23:59
+
 
 In this homework, you are expected to implement the following (in any programming
 language):
